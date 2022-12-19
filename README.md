@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OliverLinsell
-- 👀 I’m interested in health tech
+- 👀 I’m interested in health tech + data science/analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on basic python projects
 - 📫 How to reach me @DrOliverLinsell
